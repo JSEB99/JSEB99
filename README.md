@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm electronic engineer, intested in data science, learning data science daily, and have knowledge about RPG (working about 5 months), sql, excel.<br>python libraries:<br>- numpy, pandas, matplotlib, dash, plotly, seaborn.<br> In my University I used Matlab, C++ and Assembler to complete task for the subjects. <br>
+I'm electronic engineer, interested in data science, learning data science daily, and have knowledge about RPG (working about 5 months), sql, excel.<br>python libraries:<br>- numpy, pandas, matplotlib, dash, plotly, seaborn.<br> In my University I used Matlab, C++ and Assembler to complete task for the subjects. <br>
 
 
 ## 🌐 Socials:
