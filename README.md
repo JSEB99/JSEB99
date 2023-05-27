@@ -4,9 +4,13 @@
     <h3 align="center">Hi, Welcome to my GitHub.</h3>
 </div>
 <div id="badgets" align="center">
-    <a href="https://github.com/JSEB99" target="_blank">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/JSEB99?style=social">
-    </a>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/JSEB99?color=%23A60707&style=for-the-badge">
+    <p><b>Python Projects Repository</b></p>
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JSEB99/python_projects?style=for-the-badge">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JSEB99/python_projects?color=orange&label=Python&style=for-the-badge">
+    <p><b>Bootcamp Data Science</b></p>
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JSEB99/Bootcamp_DS_BIT?style=for-the-badge">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JSEB99/Bootcamp_DS_BIT?color=purple&label=Python%20-%20Data%20science&style=for-the-badge">
 </div>
 
 ## 💫 About Me:
