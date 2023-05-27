@@ -25,8 +25,39 @@ I'm electronic engineer, interested in data science, learning data science daily
   </a>
 </div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+<div align="left">
+    <h3>🔨Languages and Tools</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" alt="SQLServer" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgre" alt="Postgre" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLLIte" alt="SQLIte" 
+        width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="50" height="50"/>&nbsp;
+    </div>
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JSEB99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JSEB99&theme=dark&hide_border=false)<br/>
