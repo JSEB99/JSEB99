@@ -17,7 +17,7 @@
 I'm electronic engineer, interested in data science, learning data science daily, and have knowledge about RPG (working about 5 months), sql, excel.<br>python libraries:<Li>Numpy</Li><Li>Pandas</Li><Li>Matplotlib</Li><Li>Dash</Li><Li>Plotly</Li><Li>Seaborn</Li><br> In my University I used Matlab, C++ and Assembler to complete task for the subjects.<br>
 
 <div id="Social" align="left">
-  <h3 align="left">🌐 Socials:</h3>
+  <h3 align="left" target="_blank">🌐 Socials:</h3>
   <a href="https://linkedin.com/in/jsebastianm" target="_blank">
     <img alt="LinkedIn User" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
