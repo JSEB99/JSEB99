@@ -1,20 +1,11 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy-downsized.gif" width="1000" height="200" />
-    <h1 align="center"> Juan Sebastian Mora Tibamoso</h1>
-    <h3 align="center">Hi, Welcome to my GitHub.</h3>
-</div>
-<div id="badgets" align="center">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/JSEB99?color=%23A60707&style=for-the-badge">
-    <p><b>Python Projects Repository</b></p>
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JSEB99/python_projects?style=for-the-badge">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JSEB99/python_projects?color=orange&label=Python&style=for-the-badge">
-    <p><b>Bootcamp Data Science</b></p>
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JSEB99/Bootcamp_DS_BIT?style=for-the-badge">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JSEB99/Bootcamp_DS_BIT?color=purple&label=Python%20-%20Data%20science&style=for-the-badge">
+    <h1 align="center" style="color:crimson">Sebastian Mora</h1>
+    <h3 align="center">Data Scientist 👨‍🔬 | Data Engineer 🔜 | Data Analyst 📊</h3>
 </div>
 
 ## 💫 About Me:
-I'm electronic engineer, interested in data science, learning data science daily, and have knowledge about RPG (working about 5 months), sql, excel.<br>python libraries:<Li>Numpy</Li><Li>Pandas</Li><Li>Matplotlib</Li><Li>Dash</Li><Li>Plotly</Li><Li>Seaborn</Li><br> In my University I used Matlab, C++ and Assembler to complete task for the subjects.<br>
+I am a passionate electronic engineer with a deep fascination for the world of data. My journey in the realm of technology has led me to explore various facets of data, making me a dedicated student of database specialization. As an aspiring data scientist, data engineer, and data analyst, I am committed to harnessing the power of data to drive innovation and solve real-world problems. With a strong foundation in electronics and a burning curiosity for data-driven insights, I am constantly seeking new challenges and opportunities to merge my engineering skills with the limitless possibilities of data science.
 
 <div id="Social" align="left">
   <h3 align="left">🌐 Socials:</h3>
@@ -29,41 +20,10 @@ I'm electronic engineer, interested in data science, learning data science daily
   </a>
 </div>
 
-<div align="left">
-    <h3>🔨Languages and Tools</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" 
-        width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" 
-        width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" 
-        width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" 
-        width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" 
-        width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" 
-        width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" alt="SQLServer" 
-        width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" 
-        width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgre" alt="Postgre" 
-        width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLLIte" alt="SQLIte" 
-        width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-    </div>
-</div>
+
+### 🔨Languages and Tools</h3>
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,java,postgresql,sqlite,vscode,js,html,css,svelte,md,latex,git,github,flask,docker,fastapi,postman)](https://skillicons.dev)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JSEB99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
