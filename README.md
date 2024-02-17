@@ -22,7 +22,7 @@ I am a passionate electronic engineer with a deep fascination for the world of d
 
 
 ### 🔨Languages and Tools</h3>
-[![My Skills](https://skillicons.dev/icons?i=py,selenium,java,postgresql,sqlite,vscode,js,html,css,svelte,md,latex,git,github,flask,docker,fastapi,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,java,postgresql,sqlite,vscode,js,html,css,svelte,md,latex,git,github,flask,docker,fastapi,postman,react,azure,docker,sklearn)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
