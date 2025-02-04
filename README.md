@@ -5,7 +5,7 @@
 </div>
 
 ## 💫 About Me:
-I am a passionate electronic engineer with a deep fascination for the world of data. My journey in the realm of technology has led me to explore various facets of data, making me a dedicated student of database specialization. As an aspiring data scientist, data engineer, and data analyst, I am committed to harnessing the power of data to drive innovation and solve real-world problems. With a strong foundation in electronics and a burning curiosity for data-driven insights, I am constantly seeking new challenges and opportunities to merge my engineering skills with the limitless possibilities of data science.
+*Electronic engineer & Database specialist* with a deep fascination for the world of data. My journey in the realm of technology has led me to explore various facets of data. **As an aspiring data scientist, data engineer and data analyst, I am committed to harnessing the power of data to drive innovation and solve real-world problems**. With a strong foundation in electronics and a burning curiosity for data-driven insights, I am constantly seeking new challenges and opportunities to merge my engineering skills with the limitless possibilities of data science.
 
 <div id="Social" align="left">
   <h3 align="left">🌐 Socials:</h3>
@@ -24,16 +24,9 @@ I am a passionate electronic engineer with a deep fascination for the world of d
 ### 🔨Languages and Tools</h3>
 [![My Skills](https://skillicons.dev/icons?i=py,selenium,java,postgresql,mysql,sqlite,vscode,js,html,css,svelte,md,latex,git,github,flask,docker,fastapi,postman,react,azure,sklearn,spring,graphql,idea)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JSEB99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JSEB99&theme=dark&hide_border=false)<br/>
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JSEB99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JSEB99&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JSEB99&limit=5&theme=dracula&combine_all_yearly_contributions=true)
