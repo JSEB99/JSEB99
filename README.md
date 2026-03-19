@@ -6,6 +6,7 @@
 
 ## 💫 About Me:
 *Electronic engineer & Database specialist* with a deep fascination for the world of data. My journey in the realm of technology has led me to explore various facets of data. **As an aspiring data scientist, data engineer and data analyst, I am committed to harnessing the power of data to drive innovation and solve real-world problems**. With a strong foundation in electronics and a burning curiosity for data-driven insights, I am constantly seeking new challenges and opportunities to merge my engineering skills with the limitless possibilities of data science.
+- [Portfolio](https://jseb99.github.io/portfolio/)
 
 <div id="Social" align="left">
   <h3 align="left">🌐 Socials:</h3>
