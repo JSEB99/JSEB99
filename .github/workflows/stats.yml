@@ -25,7 +25,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=JSEB99&show_icons=true&theme=outrun
+          options: username=JSEB99&show_icons=true&theme=transparent
           path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,7 +34,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=JSEB99&layout=compact&langs_count=6&theme=outrun
+          options: username=JSEB99&layout=compact&langs_count=6&theme=transparent
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=JSEB99&repo=predictive-health-resources&theme=outrun
+          options: username=JSEB99&repo=predictive-health-resources&theme=transparent
           path: assets/pin-mi-repo.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
