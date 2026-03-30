@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "50 22 * * *"  # Corre todos los días a medianoche UTC
+    - cron: "0 0 * * *"  # Corre todos los días a medianoche UTC
   workflow_dispatch:
 
 jobs:
