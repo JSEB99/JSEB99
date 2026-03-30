@@ -1,0 +1,57 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Corre todos los días a medianoche UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      # 1️⃣ Clonar el repo
+      - uses: actions/checkout@v6
+
+      # 2️⃣ Crear carpeta si no existe
+      - name: Ensure assets folder exists
+        run: mkdir -p assets
+
+      # 3️⃣ Generar stats
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=JSEB99&show_icons=true
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 4️⃣ Generar top languages
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=JSEB99&layout=compact&langs_count=6
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 5️⃣ Generar 1 repo pinned
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=JSEB99&repo=predictive-health-resources
+          path: assets/pin-mi-repo.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 6️⃣ Commit automático
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push

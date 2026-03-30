@@ -21,18 +21,18 @@
   </a>
 </div>
 
+---
 
-### 🔨Languages and Tools</h3>
+## 🔨Languages and Tools</h3>
 [![My Skills](https://skillicons.dev/icons?i=py,selenium,java,postgresql,mysql,sqlite,vscode,js,html,css,svelte,md,latex,git,github,flask,docker,fastapi,postman,react,azure,sklearn,spring,graphql,idea)](https://skillicons.dev)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JSEB99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=JSEB99&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+## 📊 GitHub Stats
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JSEB99&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![Stats](assets/stats.svg)
+![Top Languages](assets/top-langs.svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JSEB99&icon=6&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📌 Repo Destacado
+
+![Pinned Repo](assets/pin-mi-repo.svg)
