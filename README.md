@@ -26,13 +26,21 @@
 ## 🔨Languages and Tools</h3>
 [![My Skills](https://skillicons.dev/icons?i=py,selenium,java,postgresql,mysql,sqlite,vscode,js,html,css,svelte,md,latex,git,github,flask,docker,fastapi,postman,react,azure,sklearn,spring,graphql,idea)](https://skillicons.dev)
 
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 12px; color: #c9d1d9; max-width: 700px; margin: auto;">
+
 ## 📊 GitHub Stats
 
 ![Stats](assets/stats.svg)
 ![Top Languages](assets/top-langs.svg)
 
+</div>
+
 ---
 
 ## 📌 Repo Destacado
 
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 12px; color: #c9d1d9; max-width: 700px; margin: auto;">
+
 ![Pinned Repo](assets/pin-mi-repo.svg)
+
+</div>
