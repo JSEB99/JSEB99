@@ -25,7 +25,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=JSEB99&show_icons=true&theme=holi&title_color=c20e29&icon_color=c20e29
+          options: username=JSEB99&show_icons=true&theme=codeSTACKr
           path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,7 +34,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=JSEB99&layout=compact&langs_count=6&theme=holi&title_color=c20e29&icon_color=c20e29
+          options: username=JSEB99&layout=compact&langs_count=6&theme=codeSTACKr
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=JSEB99&repo=predictive-health-resources&theme=holi&title_color=c20e29&icon_color=c20e29
+          options: username=JSEB99&repo=predictive-health-resources&theme=codeSTACKr
           path: assets/pin-mi-repo.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
@@ -52,7 +52,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=JSEB99&repo=s21-08-n-data&theme=holi&title_color=c20e29&icon_color=c20e29
+          options: username=JSEB99&repo=s21-08-n-data&theme=codeSTACKr
           path: assets/pin-mi-repo-2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
