@@ -30,8 +30,10 @@
 
 ## 📊 GitHub Stats
 
-![Stats](assets/stats.svg)
-![Top Languages](assets/top-langs.svg)
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <img src="assets/stats.svg" width="80%"/>
+  <img src="assets/top-langs.svg" width="80%"/>
+</div>
 
 </div>
 
