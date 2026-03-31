@@ -35,13 +35,11 @@
 
 </div>
 
----
+<div align="center" style="padding: 20px; border-radius: 12px; color: #c9d1d9; max-width: 700px; margin: auto;">
 
 ## 📌 Repo Destacado
 
-<div align="center" style="padding: 20px; border-radius: 12px; color: #c9d1d9; max-width: 700px; margin: auto;">
-
-![Pinned Repo](assets/pin-mi-repo.svg)
-![Pinned Repo 2](assets/pin-mi-repo-2.svg)
+<img src="assets/pin-mi-repo.svg" height="160"/>
+<img src="assets/pin-mi-repo-2.svg" height="160"/>
 
 </div>
