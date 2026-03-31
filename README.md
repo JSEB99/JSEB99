@@ -35,11 +35,14 @@
 
 </div>
 
+
 <div align="center">
 
 ## 📌 Repositorios Recomendados
 
-<img src="assets/pin-mi-repo.svg" height="160"/>
-<img src="assets/pin-mi-repo-2.svg" height="160"/>
+<div style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
+  <img src="assets/pin-mi-repo.svg" height="160"/>
+  <img src="assets/pin-mi-repo-2.svg" height="160"/>
+</div>
 
 </div>
