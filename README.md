@@ -26,14 +26,12 @@
 ## 🔨Languages and Tools</h3>
 [![My Skills](https://skillicons.dev/icons?i=py,selenium,java,postgresql,mysql,sqlite,vscode,js,html,css,svelte,md,latex,git,github,flask,docker,fastapi,postman,react,azure,sklearn,spring,graphql,idea)](https://skillicons.dev)
 
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 12px; color: #c9d1d9; max-width: 700px; margin: auto;">
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <img src="assets/stats.svg" width="80%"/>
-  <img src="assets/top-langs.svg" width="80%"/>
-</div>
+<img src="assets/stats.svg" height="160"/>
+<img src="assets/top-langs.svg" height="160"/>
 
 </div>
 
